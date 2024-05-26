@@ -8,6 +8,8 @@ idna
 joblib
 mysql
 mysql-connector
+mysql-connector-python
+mysql-client
 nltk
 pypiwin32
 PyQt5

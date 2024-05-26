@@ -12,7 +12,6 @@ pypiwin32
 PyQt5
 PyQt5-Qt5
 PyQt5-sip
-pyttsx3
 pywin32
 regex
 requests
